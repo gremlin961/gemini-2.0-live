@@ -1,0 +1,3 @@
+google-genai
+nest_asyncio
+ipython
